@@ -2,7 +2,7 @@
 Het idee van deze website is om inspiratie op te doen met foto's uit de Amsterdamse beeldbank.
 Je zoekt op een woord, ziet een lijst met foto's en klikt op een van die foto's die je leuk, mooi of interresant vindt en de website maakt naar aanleiding van jou keuze een nieuwe lijst met andere afbeeldingen.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![schermafbeelding van de site](https://github.com/muise001/project1-quick-hack-prototype/blob/master/emiel.muis.OBA.project.png "schermafbeelding van de site")
 [Bekijk de site](https://muise001.github.io/project1-quick-hack-prototype/)
 
 ### Funtionaliteiten
