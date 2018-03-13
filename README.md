@@ -33,4 +33,4 @@ Je zoekt op een woord, ziet een lijst met foto's en klikt op een van die foto's 
 
 
 
-Emiel Muis
+`Emiel Muis`
